@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222093766156",
+    "firebase_url": "https://yuleidy7.firebaseio.com",
+    "project_id": "yuleidy7",
+    "storage_bucket": "yuleidy7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222093766156:android:acca3b8953a61d7be14829",
+        "android_client_info": {
+          "package_name": "com.uteq.yuleidy7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222093766156-g5lsmabm46r6281unq2r6o8bh95tbljn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxo5CuYN7WAf7FP6UTTe0cofnf-zEEFUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222093766156-g5lsmabm46r6281unq2r6o8bh95tbljn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
